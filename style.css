@@ -1,0 +1,146 @@
+main {
+    margin: auto;
+    align-items: center;
+}
+.image {
+    align-items: center;
+    margin-top:100px;
+    margin-left: 540px;
+    margin-right: 400px;
+}
+input{
+    align-self: center;
+    margin-left: 370px;
+    padding: unset;
+    align:center;
+    padding:auto;
+    height:38px;
+    width:600px;
+    border-radius: 20px;
+color:whitesmoke;
+border-color:whitesmoke;
+box-shadow: gainsboro 1px 2px;
+color: black;
+font-size: 16px;
+font-style: normal;
+}
+.button{
+    margin-left: 500px;
+    color: whitesmoke;
+    height: 15px;
+    /* width:40px; */
+
+}
+button{
+    height:35px;
+    width:130px;
+    color:black;
+    margin:5px;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color:mintcream;
+    border-color:whitesmoke;
+    border-radius: 5px;
+    text-decoration: none;
+
+    
+}
+button:hover{
+    box-shadow: 1px 1px wheat;
+    border-color:wheat ;
+    background-color: whitesmoke;
+
+}
+p{
+    /* padding-bottom: 20px; */
+
+}
+.center{
+    margin: auto;
+    align-self: center;
+    margin-left: 530px;
+}
+/* input{
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    height: 34px;
+    font-size: 16px;
+} */
+.top {
+    display: flex;
+    position: fixed;
+    top: 0px;
+    right: 00px;
+    color: black;
+    margin: 10px;
+}
+.gb_Xe {
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+}
+.z 
+{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin: 5px;
+}
+.one{
+    margin-left: 5px;
+   
+    margin-top: 10px;
+}
+.one:hover{
+    color: darkcyan;
+}
+.two{
+    margin:10px;
+    color: black;
+    opacity: 0.7;
+}
+.two:hover{
+    color: darkcyan;
+}
+.three{
+    margin:10px;
+    margin-left:10px;
+    margin-bottom: 10px;
+}
+.three:hover{
+    color: darkcyan;
+}
+.footer1{
+    display: flex;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+
+}
+td{
+    color: black;
+    opacity: 0.7;
+}
+.footer2{
+display: flex;
+position: fixed;
+bottom: 10px;
+right: 10px;
+
+
+}
+.icon1{
+    height: 20px;
+    width: 20px;
+    margin-left:360px;
+
+}
